@@ -50,6 +50,9 @@ The main dataset contains demographic information and what financial services ar
 Two files are uploaded:
 1. **financial_inclusion_challenge.ipynb**: This is a notebook containing all the code for analysis, modeling, and results.
 2. **submission.csv**: This is a csv file that stores the predictedclasses of transactions for each client.<br>
+
+#### Result and Discussion
+The result is discussed in the blog post [here](https://medium.com/@engrnsikanabasi/feature-selection-an-important-tool-in-a-data-scientists-toolkit-a53af9ebae5c) and in the notebook as well.
 <a id='acknowledge'></a>
 ### Licensing, Authors, Acknowledgements
 The data used is for this project is hosted by [Zindi Africa](https://zindi.africa/) for Machine Learning competition purposes.
